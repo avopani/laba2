@@ -2,7 +2,7 @@
 ### Ход работы
 #### Шаг 1. Клонирование репозитория
 Выгрузила репозиторий с исходным кодом в свой репозиторий 
-<img width="1133" height="707" alt="image" src="https://github.com/user-attachments/assets/c538df56-c31b-4a7c-aeef-5ca5342aef84" />
+<img width="1170" height="684" alt="image" src="https://github.com/user-attachments/assets/5f233323-da93-49f4-a62b-ed71f2333edf" />
 
 #### Шаг 2. Создание и конфигурирование Jenkins Job
 Авторизовалась на Jenkins-сервере по указанному IP и порту.
