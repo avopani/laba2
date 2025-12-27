@@ -106,9 +106,6 @@ http://158.160.194.244:8080/github-webhook/
 
 Изменила в файле index.html цвет текста на красный. Снова инициировала сборку, появилось окошко.
 
-Вывод на http://158.160.194.244:8038/ изменился.
-
-<img width="1858" height="893" alt="image" src="https://github.com/user-attachments/assets/a6acd007-a743-4453-a9d1-544943778585" />
 
 
 
